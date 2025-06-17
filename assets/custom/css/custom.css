@@ -3595,7 +3595,7 @@ header h2 {
     row-gap: 30px;
     flex-direction: row-reverse;
     justify-content: center;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.5);
     box-shadow: 3px 3px 25px #6c6c6c;
     height: 100%;
     border-radius: 15px;
@@ -3825,7 +3825,7 @@ header h2 {
 }
 
 .quiz-start {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.5);
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -3853,7 +3853,7 @@ header h2 {
 }
 
 .form-content {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .form-content .title {
