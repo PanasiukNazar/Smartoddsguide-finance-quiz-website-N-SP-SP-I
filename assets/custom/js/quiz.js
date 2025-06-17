@@ -62,13 +62,13 @@ const startStep = {
                         <div class="my-3 icons-wrapper">
                             <span class="fables-iconphone fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span>
                             <p class="font-14 fables-fifth-text-color mt-2 ml-4">
-                                +49896495630
+                                +541160907900
                             </p>
                         </div>
                         <div class="my-3 icons-wrapper">
                             <span class="fables-iconemail fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span>
                             <p class="font-14 fables-fifth-text-color mt-2 ml-4">
-                                casual_tap_time@gmail.com
+                                smartoddsguide@gmail.com
                             </p>
                         </div>
                     </div>
