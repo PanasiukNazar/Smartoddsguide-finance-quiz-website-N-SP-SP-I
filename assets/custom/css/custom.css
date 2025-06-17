@@ -3676,6 +3676,7 @@ header h2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     column-gap: 20px;
     border-radius: 10px;
     margin-top: 20px;
@@ -3706,9 +3707,6 @@ header h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #fdd20eff;
-    padding: 10px;
-    border-radius: 10px;
 }
 
 .icons-wrapper span {
