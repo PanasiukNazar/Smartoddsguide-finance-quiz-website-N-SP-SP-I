@@ -3523,10 +3523,8 @@ a.toggle-menu {
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 .cookie-wrapper {
-    position: fixed;
-    bottom: 50px;
-    right: 30px;
-    max-width: 345px;
+    position: absolute;
+    bottom: 0;
     width: 100%;
     background: rgba(0, 0, 0, 1);
     border-radius: 10px;
